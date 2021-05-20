@@ -1,0 +1,3 @@
+include ':DateSimplifier'
+include ':app'
+rootProject.name = "SimpleDate"
